@@ -1,5 +1,12 @@
 
-<html><body>
+<html>
+
+<head>
+	<title>Yasmin's Webpage!<title>
+</head>
+
+<body>
+	
 
 	<p>Hi Bob Has Been Here!</p>
 
